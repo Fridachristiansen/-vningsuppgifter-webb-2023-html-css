@@ -1,0 +1,22 @@
+img{
+
+    width: 600px;
+    height: 300px;
+
+    
+}
+
+h1{
+    color: rgba(1, 1, 72, 0.874);
+}
+
+h2{
+    color: rgba(1, 1, 72, 0.966);
+    font-style: italic;
+  
+    
+}
+
+body{
+    background-color: rgb(224, 224, 255);
+}
